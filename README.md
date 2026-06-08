@@ -95,6 +95,7 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 * [GW-BASIC source code](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983.
 * [Project Cherry](https://github.com/Sarania/Project-Cherry) - a Chip-8/SCHIP emulator written in FreeBASIC.
 * [The Basics' page (since 2001)](http://basic.mindteq.com/)
+* [Tiny BASIC](https://github.com/ericscharff/tinybasic) - Reconstruction of Tiny BASIC for the 8080 from the first issue of Dr. Dobbs' Journal.
 
 ## Tutorials
 
