@@ -11,8 +11,8 @@ A curated list of awesome BASIC dialects, IDEs, and tutorials
 
 ## Dialects
 
-* [AdaLogic BASIC (ALB)](https://alb-lang.org/) - Multi-backend, multi-platform, multi paradigm BASIC inspired language
 * [AppGameKit](https://www.appgamekit.com/) - an easy-to-learn game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit - have your demos and games up and running on mobile devices.
+* [AdaLogic BASIC (ALB)](https://alb-lang.org/) - Multi-backend, multi-platform, multi paradigm BASIC inspired language
 * [asp-classic-emulator](https://github.com/MarceloDelgadoDev/asp-classic-emulator) - Run ASP Classic on macOS, Linux and BSD. Written in Node.js.
 * [atinybasic](https://github.com/trevorjay/atinybasic) - An Actually Tiny BASIC for Arduino.
 * [B4X](https://www.b4x.com/) - Simple, powerful, and modern development tools.
